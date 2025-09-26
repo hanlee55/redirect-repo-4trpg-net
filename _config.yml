@@ -1,0 +1,9 @@
+# _config.yml
+
+# 필요한 플러그인 추가
+plugins:
+  - jekyll-redirect-from
+
+# 리디렉션 플러그인 설정
+# 리포지토리 전체를 다른 사이트로 리디렉션합니다.
+redirect_to: https://4trpg.com
